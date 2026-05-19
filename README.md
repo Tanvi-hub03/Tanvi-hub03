@@ -102,7 +102,7 @@ Worked on responsive business and service websites for live client environments 
 - [RamhiraHolidays.com](https://ramhiraholidays.com/)
 - [ShivtirthSportsSangli.in](http://shivtirthsportssangli.in/)
 - [Vermicompost.co.in](https://www.vermicompost.co.in/)
-- AK Enterprises Website
+
 
 ### Responsibilities
 - Responsive website development
