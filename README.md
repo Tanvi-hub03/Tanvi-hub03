@@ -97,7 +97,7 @@ Academic web-based platform connecting donors, NGOs, and recipients using role-b
 Worked on responsive business and service websites for live client environments involving frontend development, UI improvements, deployment support, and performance optimization.
 
 ### Live Client Websites
-- [Harmeet.in] (https://harmeet.in/)
+- [Harmeet.in](https://harmeet.in/)
 - [AtlasRoadwaysServices.in](https://atlasroadwaysservices.in/) 
 - [RamhiraHolidays.com](https://ramhiraholidays.com/)
 - [ShivtirthSportsSangli.in](http://shivtirthsportssangli.in/)
