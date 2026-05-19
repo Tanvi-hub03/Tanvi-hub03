@@ -1,4 +1,4 @@
-# Hi, I'm Tanvi Jain 👋
+# Hi, I'm Tanvi Jain 
 
 M.Sc. Computer Science graduate passionate about Full Stack and Web Development.
 
@@ -15,7 +15,7 @@ Currently seeking opportunities in:
 
 ---
 
-## 🚀 Technical Skills
+##  Technical Skills
 
 ### Languages
 - Java
@@ -51,7 +51,7 @@ Currently seeking opportunities in:
 
 ---
 
-# 💻 Featured Projects
+#  Featured Projects
 
 ## Sports Event Management & Auction Platform
 Real-time sports auction platform developed using Flask, MySQL, and Socket.IO with live bidding functionality and backend integration.
@@ -93,7 +93,7 @@ Academic web-based platform connecting donors, NGOs, and recipients using role-b
 
 ---
 
-# 📜 Certifications
+#  Certifications
 
 - Capgemini Industry Training Program (SSPU)
 - Introduction to Generative AI Studio
@@ -101,8 +101,8 @@ Academic web-based platform connecting donors, NGOs, and recipients using role-b
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/tanvi-jain-dev/
 
-GitHub: github.com/Tanvi-hub03
+GitHub: https://github.com/Tanvi-hub03/
