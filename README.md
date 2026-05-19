@@ -92,7 +92,27 @@ Academic web-based platform connecting donors, NGOs, and recipients using role-b
 - CSV export functionality
 
 ---
+# 🌐 Client Websites & Deployment Experience
 
+Worked on responsive business and service websites for live client environments involving frontend development, UI improvements, deployment support, and performance optimization.
+
+### Live Client Websites
+- [Harmeet.in] (https://harmeet.in/)
+- [AtlasRoadwaysServices.in](https://atlasroadwaysservices.in/) 
+- [RamhiraHolidays.com](https://ramhiraholidays.com/)
+- [ShivtirthSportsSangli.in](http://shivtirthsportssangli.in/)
+- [Vermicompost.co.in](https://www.vermicompost.co.in/)
+- AK Enterprises Website
+
+### Responsibilities
+- Responsive website development
+- Frontend UI implementation
+- Website optimization
+- Deployment support
+- Backend integration support
+- Performance improvements
+
+> Note: Source code and production configurations are private due to client confidentiality.
 #  Certifications
 
 - Capgemini Industry Training Program (SSPU)
